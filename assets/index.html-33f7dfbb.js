@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"","lang":"en-US","frontmatter":{"home":true,"heroImage":"/images/logo.png","heroText":"空山木巷","tagline":null,"footer":"Copyright © 2023-present 空山木巷"},"headers":[],"git":{},"filePathRelative":"README.md"}');export{e as data};

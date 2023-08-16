@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as d,a as e,d as c}from"./app-66d6b4fd.js";const i={},n=e("h1",{id:"idea-guide",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#idea-guide","aria-hidden":"true"},"#"),c(" IDEA Guide")],-1),o=[n];function r(s,_){return t(),d("div",null,o)}const l=a(i,[["render",r],["__file","index.html.vue"]]);export{l as default};
